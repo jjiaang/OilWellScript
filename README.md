@@ -1,7 +1,5 @@
 # Oil well script
 
-This script was made for my father.
-
 # Overview
 
 A script that helps with the automation of condensing columns for oil well analysis.
